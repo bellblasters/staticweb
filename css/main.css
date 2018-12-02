@@ -1,9 +1,4 @@
-
-div.tournamentwrapper {
-    /* border: 1px solid blue; */
-}
-
-div.tournamentwrapper .match1 {
+div.match1 {
     display: inline-block;
     width:45%;
     height: 370px;
@@ -17,7 +12,7 @@ div.tournamentwrapper .match1 {
     border: 2px solid royalblue;
 }
 
-div.tournamentwrapper .match2 {
+div.match2 {
     display: inline-block;
     width:45%;
     height: 370px;
@@ -32,51 +27,51 @@ div.tournamentwrapper .match2 {
 
 /* ------------------- FIRST COLUMN ------------------- */
 
-div.tournamentwrapper .match1 p.matchround {
+div.match1 p.matchround {
     display: inline;
     color: rgb(248, 7, 7);
     font-size: 1.2em;
 }
 
-div.tournamentwrapper .match1 p.matchteams {
+div.match1 p.matchteams {
     display: inline;
     color: darkblue;
     font-size: 1.5em;
 }
 
-div.tournamentwrapper .match1 p.matchvenue {
+div.match1 p.matchvenue {
     display: inline;
     color: rgb(6, 90, 20);
     font-size: 1.2em;
 }
 
-div.tournamentwrapper .match1 p.matchdate {
+div.match1 p.matchdate {
     display: inline;
     color: blue;
     font-size: 1.2em;
 }
 
-div.tournamentwrapper .match1 p.matchtoss {
+div.match1 p.matchtoss {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match1 p.matchbriefscore {
+div.match1 p.matchbriefscore {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match1 p.matchtmom {
+div.match1 p.matchtmom {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match1 p.matchfullscorecard {
+div.match1 p.matchfullscorecard {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match1 p.matchsummary {
+div.match1 p.matchsummary {
     color: black;
     font-size: 0.8em;
     text-align: left;
@@ -84,51 +79,51 @@ div.tournamentwrapper .match1 p.matchsummary {
 
 /* ------------------- SECOND COLUMN ------------------- */
 
-div.tournamentwrapper .match2 p.matchround {
+div.match2 p.matchround {
     display: inline;
     color: rgb(248, 7, 7);
     font-size: 1.2em;
 }
 
-div.tournamentwrapper .match2 p.matchteams {
+div.match2 p.matchteams {
     display: inline;
     color: darkblue;
     font-size: 1.5em;
 }
 
-div.tournamentwrapper .match2 p.matchvenue {
+div.match2 p.matchvenue {
     display: inline;
     color: rgb(6, 90, 20);
     font-size: 1.2em;
 }
 
-div.tournamentwrapper .match2 p.matchdate {
+div.match2 p.matchdate {
     display: inline;
     color: blue;
     font-size: 1.2em;
 }
 
-div.tournamentwrapper .match2 p.matchtoss {
+div.match2 p.matchtoss {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match2 p.matchbriefscore {
+div.match2 p.matchbriefscore {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match2 p.matchtmom {
+div.match2 p.matchtmom {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match2 p.matchfullscorecard {
+div.match2 p.matchfullscorecard {
     text-align: left;
     font-size: 0.8em;
 }
 
-div.tournamentwrapper .match2 p.matchsummary {
+div.match2 p.matchsummary {
     color: black;
     font-size: 0.8em;
     text-align: left;
