@@ -1,7 +1,33 @@
+td.navigation {
+    background-color: royalblue;
+    border-radius: 25px;
+    height: 40px;
+    color: white;
+}
+
+td.navigation a {
+    color: white;
+}
+
+td.navigation a:hover {
+    color: gold;
+}
+
+/* ------------------- TOURNAMENT TITLE ------------------- */
+span.tournamenttitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: darkslateblue;
+}
+
+/* ------------------- TOURNAMENT RECORD COLUMNS ------------------- */
+
 div.match1 {
-    display: inline-block;
+    /* display: inline-block; */
+    display: table-cell;
     width:45%;
-    height: 370px;
+    /* height: 370px; */
     vertical-align: top;
     /* background-color: lightgreen; */
     border-radius: 25px;
@@ -13,9 +39,10 @@ div.match1 {
 }
 
 div.match2 {
-    display: inline-block;
+    /* display: inline-block; */
+    display: table-cell;
     width:45%;
-    height: 370px;
+    /* height: 370px; */
     vertical-align: top;
     /* background-color: lightskyblue; */
     border-radius: 25px;
