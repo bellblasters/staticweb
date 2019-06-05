@@ -1,0 +1,144 @@
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  /* YouTube */
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  /* Instagram */
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  /* Pinterest */
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+
+  /* Google */
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  /* LinkedIn */
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  /* Snapchat */
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  /* Skype */
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  /* Android */
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  /* dribbble */
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  
+  /* vimeo */
+  .fa-vimeo {
+    background: #45bbff;
+    color: white;
+  }
+  
+  /* tumblr */
+  .fa-tumblr {
+    background: #2c4762;
+    color: white;
+  }
+  
+  /* vine */
+  .fa-vine {
+    background: #00b489;
+    color: white;
+  }
+  
+  /* foursquare */
+  .fa-foursquare {
+    background: #45bbff;
+    color: white;
+  }
+  
+  /* stumbleupon */
+  .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+  }
+  
+  /* flickr */
+  .fa-flickr {
+    background: #f40083;
+    color: white;
+  }
+  
+  /* yahoo */
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  
+  /* soundcloud */
+  .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+  }
+  
+  /* reddit */
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+  
+  /* rss */
+  .fa-rss {
+    background: #ff6600;
+    color: white;
+  }
+  
