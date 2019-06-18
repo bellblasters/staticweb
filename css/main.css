@@ -104,8 +104,14 @@ div.match1 p.matchsummary {
     text-align: left;
 }
 
-div.match1 p.result {
-    color: black;
+div.match1 p.result-won {
+    color: green;
+    font-size: 0.8em;
+    text-align: left;
+}
+
+div.match1 p.result-lost {
+    color: maroon;
     font-size: 0.8em;
     text-align: left;
 }
@@ -162,8 +168,14 @@ div.match2 p.matchsummary {
     text-align: left;
 }
 
-div.match2 p.result {
-    color: black;
+div.match2 p.result-won {
+    color: green;
+    font-size: 0.8em;
+    text-align: left;
+}
+
+div.match2 p.result-lost {
+    color: maroon;
     font-size: 0.8em;
     text-align: left;
 }
